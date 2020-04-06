@@ -6,12 +6,13 @@ import (
 	"errors"
 	"fmt"
 	"io/ioutil"
-	"me/blogger-fcm/models"
 	"net/http"
 	"os"
 	"path/filepath"
 	"reflect"
 	"testing"
+
+	"github.com/Darkness4/blogger-fcm/models"
 )
 
 func helperLoadBytes(t *testing.T, name string) []byte {

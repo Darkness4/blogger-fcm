@@ -2,9 +2,9 @@ package services
 
 import (
 	"context"
-	"me/blogger-fcm/models"
 
 	"firebase.google.com/go/messaging"
+	"github.com/Darkness4/blogger-fcm/models"
 )
 
 // SendLatestPost to FCM
