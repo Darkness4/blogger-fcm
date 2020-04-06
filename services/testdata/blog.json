@@ -1,0 +1,23 @@
+{
+  "kind": "blogger#blog",
+  "id": "2525963384134512130",
+  "name": "Actualité du Pôle Yvon Morandat",
+  "description": "",
+  "published": "2020-03-31T08:02:25-07:00",
+  "updated": "2020-04-06T09:34:16-07:00",
+  "url": "http://pole-yvon-morandat.blogspot.com/",
+  "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2525963384134512130",
+  "posts": {
+    "totalItems": 2,
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2525963384134512130/posts"
+  },
+  "pages": {
+    "totalItems": 0,
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2525963384134512130/pages"
+  },
+  "locale": {
+    "language": "fr",
+    "country": "",
+    "variant": ""
+  }
+}
